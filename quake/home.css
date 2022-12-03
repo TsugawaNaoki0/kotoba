@@ -1,0 +1,70 @@
+.main{
+  text-align: center;
+  /* margin-top: 10%; */
+  margin-top: 10%;
+  width: 80%;
+  background-color: green;
+  margin-left: 10%;
+}
+
+
+.title{
+  font-size: 80px;
+  color: blue;
+}
+
+.label{
+  font-size: 50px;
+  color: blue;
+  /* margin-top: 25%; */
+}
+
+.form{
+  font-size: 50px;
+  color: blue;
+}
+
+.timestamp{
+  font-size: 50px;
+  color: blue;
+}
+
+.registration{
+  font-size: 50px;
+  color: blue;
+}
+
+.login{
+  font-size: 50px;
+  color: blue;
+}
+
+.delete_page{
+  font-size: 50px;
+  color: blue;
+}
+
+.email_tra{
+  font-size: 50px;
+  color: blue;
+}
+
+.del_mail{
+  font-size: 50px;
+  color: blue;
+}
+
+.sakujo{
+  font-size: 50px;
+  color: blue;
+}
+
+.delete_button{
+  font-size: 50px;
+  color: blue;
+}
+
+.reg_del{
+  font-size: 50px;
+  color: blue;
+}
